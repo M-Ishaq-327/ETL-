@@ -35,4 +35,11 @@ This project involves an end-to-end data analytics workflow using Python for dat
 - 📅 Determine **which month had the highest sales** for each category.  
 - 📉 Identify the **sub-category with the highest profit growth** in 2023 compared to 2022.  
 
-## 🛠 Te
+## 🛠 Technologies Used  
+
+- 🐍 Python (Pandas)  
+- 🗄 SQL Server  
+- 🌐 Kaggle API  
+
+💡 This project covers data extraction, transformation, and analysis to generate valuable business insights! 🚀📊  
+
